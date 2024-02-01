@@ -1,10 +1,15 @@
-[
-  {
-    "url": "https://drive.google.com/uc?id=1NkAwd5jXIgP8d7vNRCHoLWnL2VAe5n5H",
-    "size": 0.02
-  },
-  {
-    "url": "https://drive.google.com/uc?id=1LPtzzFDBpsAGVuDibAmJmjnYMFwV6Uwh",
-    "size": 0.01
-  }
-]
+{
+  "version": "14.4",
+  "release_date": "2024-01-01",
+  "release_url": "https://github.com/ncaanext/ncaa-next-24/releases/tag/V14.4",
+  "texture_dl_files": [
+    {
+      "url": "https://drive.google.com/uc?id=1NkAwd5jXIgP8d7vNRCHoLWnL2VAe5n5H",
+      "size": 0.02
+    },
+    {
+      "url": "https://drive.google.com/uc?id=1LPtzzFDBpsAGVuDibAmJmjnYMFwV6Uwh",
+      "size": 0.01
+    }
+  ]
+}
