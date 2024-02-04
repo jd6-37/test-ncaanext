@@ -2,8 +2,8 @@
   "version": "14.4",
   "release_date": "2024-01-01",
   "release_url": "https://github.com/ncaanext/ncaa-next-24/releases/tag/V14.4",
-  "total_size": "11",
-  "temp_size": "0.9",
+  "total_size": 11,
+  "temp_size": 0.9,
   "download_complete": [
     "textures/SLUS-21214/replacements/bowls",
     "textures/SLUS-21214/replacements/controller",
